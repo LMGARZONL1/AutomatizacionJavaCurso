@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2977ef9-d585-4a18-9e26-6ffddcdc31bf" name="Changes" comment="" />
+    <list default="true" id="e2977ef9-d585-4a18-9e26-6ffddcdc31bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkosto/pageObject/PaginaInicialPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkosto/pageObject/PaginaInicialPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/alkosto/steps/PaginaInicialSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/alkosto/steps/PaginaInicialSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/FormularioDetallePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/FormularioDetallePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/FormularioPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/FormularioPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/PaginaInicialPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/PaginaInicialPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/PerfilPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/pageObject/PerfilPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/steps/FormularioDetalleSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/steps/FormularioDetalleSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/steps/FormularioSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/steps/FormularioSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/steps/PaginaInicialSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/steps/PaginaInicialSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/steps/PerfilSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/steps/PerfilSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/utils/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/utils/Data.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/haceb/utils/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/haceb/utils/Excel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/Data/DataHaceb.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Data/DataHaceb.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkosto/runner/alkostoRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkosto/runner/alkostoRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/alkosto/stepDefinitions/RegistroStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/alkosto/stepDefinitions/RegistroStepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/haceb/runner/hacebRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/haceb/runner/hacebRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/haceb/stepDefinitions/RegistroHacebStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/haceb/stepDefinitions/RegistroHacebStepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/alkosto.feature" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/habeb.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/habeb.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,28 +46,133 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2YXT89mglTxwP4g8XIlUdcmAxzm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Desarrollo/CursoAutomatizacion/Ejercicios/PruebaAlkosto/src/main/java/org/example/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Desarrollo/CursoAutomatizacion/Ejercicios/PruebaAlkosto/src/main/resources/Data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Desarrollo/CursoAutomatizacion/Ejercicios/PruebaAlkosto/src/main/java/org/example/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Desarrollo\CursoAutomatizacion\Ejercicios\PruebaAlkosto\src\main\resources\Data" />
+      <recent name="C:\Users\Desarrollo\CursoAutomatizacion\Ejercicios\PruebaAlkosto\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.haceb.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.hacebRunner">
+    <configuration name="alkostoRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.alkosto.runner.alkostoRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="hacebRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.haceb.runner.hacebRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="pruebaRunner" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.alkosto.runner.pruebaRunner&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.hacebRunner" />
+        <item itemvalue="Gradle.alkostoRunner" />
+        <item itemvalue="Gradle.pruebaRunner" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,9 +181,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1700670764873</updated>
-      <workItem from="1700670765924" duration="12000" />
+      <workItem from="1700670765924" duration="22086000" />
+      <workItem from="1700751542650" duration="9686000" />
+      <workItem from="1700781789248" duration="631000" />
+      <workItem from="1700843812549" duration="14517000" />
+      <workItem from="1701016873103" duration="17178000" />
+      <workItem from="1701042939607" duration="4923000" />
+      <workItem from="1701097200808" duration="12416000" />
+      <workItem from="1701184662552" duration="970000" />
+      <workItem from="1701229137474" duration="724000" />
+      <workItem from="1701314854795" duration="2520000" />
+      <workItem from="1701356806319" duration="542000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
